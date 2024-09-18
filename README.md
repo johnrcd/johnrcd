@@ -3,7 +3,7 @@ Hey, I'm Rovi Decena! 👋
 
 I'm a student at Red River College Polytechnic, taking the Business Information Technology (BIT) program!
 
-This is my personal Github account, where I keep any projects I've been working on. If there's anything notable,  I'll keep public for everyone to see!
+This is my personal Github account, where I keep any projects I've been working on. If there's anything notable, I'll keep public for everyone to see! Currently, I'm focusing on web and game development.
 
 # 💻 Languages and Tools
 <!-- generated with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
